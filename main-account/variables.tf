@@ -1,0 +1,1 @@
+variable "event_bus_arn_devaccount_b" {}
